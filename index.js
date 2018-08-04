@@ -1,7 +1,7 @@
 var name = "Joe"
 var height = "74"
 
-if (index.name === "Joe") {
+if (name === "Joe") {
     console.log("The name is correct")
 } else {
     console.log("Expected: Susan, Received: "+index.name)
@@ -9,7 +9,7 @@ if (index.name === "Joe") {
 
 
 
-if (index.height === 74) {
+if (height === 74) {
     console.log("The height is correct")
 } else {
     console.log("Expected: 70, Received: "+index.height)
